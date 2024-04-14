@@ -1,0 +1,55 @@
+.container {
+    text-align: center;
+    margin-top: 50px;
+    color: white;
+}
+.container h2{
+    display: inline-flex;
+    margin: 10px;
+}
+.dice-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.dice-container img {
+    width: 100px;
+    height: 100px;
+    margin: 0 10px;
+}
+
+button {
+    font-size: 18px;
+    padding: 10px 20px;
+    background-color: #989b98;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+button:hover {
+    background-color: #caceca;
+}
+
+.score-container {
+    margin-bottom: 20px;
+}
+
+#winner-message {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+body {
+    background-color: black;
+}
+
+.container {
+    text-align: center;
+    margin-top: 50px;
+    color: white; 
+}
+
+
